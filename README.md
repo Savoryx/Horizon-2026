@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 =======
 # Horizon-2026
 
->>>>>>> 4c29df2c6a9645eaf47bd176ea0e575042dd581c
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
